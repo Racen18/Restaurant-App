@@ -1,0 +1,7 @@
+.res-row {
+    --bs-gutter-x: 0rem !important;
+}
+.res-loader {
+    margin-top: 25%!important;
+    margin-left: 60%!important;
+}

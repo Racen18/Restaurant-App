@@ -1,0 +1,6 @@
+.res-topbar {
+    display: flex;
+    align-items: center;
+    padding: 0.25%;
+    background: lightblue;
+}

@@ -1,0 +1,16 @@
+.res-cardrestaurantlist {
+    color: darkblue!important;
+    background: lightblue!important;
+}
+
+.res-typeveg {
+    background: green;
+}
+
+.res-typenonveg {
+    background: red;
+}
+
+.res-typeboth {
+    background: yellow;
+}

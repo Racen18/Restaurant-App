@@ -1,0 +1,27 @@
+.res-search {
+    padding-left: 5%;
+    display: flex;
+    gap: 7%;
+}
+.res-inputsearch {
+    border: 1px solid;
+    color: gray;
+    border-radius: 10px;
+    width: 750px;
+    height: 35px;
+    background: white;
+}
+.res-buttonsearch {
+    border: 1px solid;
+    color: gray;
+    border-radius: 10px;
+    background: lightgray;
+    width: 200px;
+}
+.res-buttonsearch:hover {
+    color: black;
+    background: cyan;
+}
+.res-filtersearch {
+    margin-left: 100px;
+}
